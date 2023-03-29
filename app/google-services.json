@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960608135860",
+    "project_id": "chattestapp-59655",
+    "storage_bucket": "chattestapp-59655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960608135860:android:b667b199af0a4a780385e1",
+        "android_client_info": {
+          "package_name": "com.kaderkayaarslan.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960608135860-d0bk16hk7606tmnus2g33l2krjkus8n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-GVp-g8byIOl0ClRMwb_6SLlS1yK0vmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960608135860-d0bk16hk7606tmnus2g33l2krjkus8n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
